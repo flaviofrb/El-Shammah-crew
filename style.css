@@ -494,6 +494,14 @@ section {
   color: #a4af0ed2;
 }
 
+.banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/banne.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
 .banner span {
   font-size: 2rem;
   color: #a4af0ed2;
