@@ -659,13 +659,20 @@ section {
   padding: 0 1rem;
 }
 
-.swiper-slide .content a i {
-  font-size: 35px;
-  color: #a4af0ed2;
-  margin-left: 25%;
+.redes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -12%;
 }
 
-.content a i:hover {
+.redes a i {
+  font-size: 35px;
+  color: #a4af0ed2;
+  margin: 10px;
+}
+
+.redes a i:hover {
   color: #a4af0e9b;
 }
 
@@ -866,10 +873,9 @@ section {
     flex-flow: column;
   }
 
-  .swiper-slide .content a i {
-    font-size: 35px;
-    color: #a4af0ed2;
-    margin-left: 30%;
+  .redes {
+
+    margin-top: -3%;
   }
 
 }
@@ -879,10 +885,8 @@ section {
     font-size: 50%;
   }
 
-  .swiper-slide .content a i {
-    font-size: 35px;
-    color: #a4af0ed2;
-    margin-left: 25%;
+  .redes {
+    margin-top: -10%;
   }
 
   .blogs .slide {
