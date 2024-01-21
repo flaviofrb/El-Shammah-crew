@@ -663,7 +663,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -12%;
+  margin-top: -50px;
 }
 
 .redes a i {
@@ -886,7 +886,7 @@ section {
   }
 
   .redes {
-    margin-top: -10%;
+    margin-top: -35px;
   }
 
   .blogs .slide {
