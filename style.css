@@ -669,7 +669,7 @@ section {
 .redes a i {
   font-size: 35px;
   color: #a4af0ed2;
-  margin: 10px;
+  margin: 10%;
 }
 
 .redes a i:hover {
@@ -886,7 +886,7 @@ section {
   }
 
   .redes {
-    margin-top: -%;
+    margin-top: -10%;
   }
 
   .blogs .slide {
