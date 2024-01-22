@@ -663,7 +663,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -14%;
+  margin: -50px;
 }
 
 .redes a i {
