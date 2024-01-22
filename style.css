@@ -814,6 +814,24 @@ section {
   .home .slide .content h3 {
     font-size: 4rem;
   }
+
+  .blogs .slide {
+    height: 55rem;
+  }
+
+  .redes {
+    margin-top: -10%;
+  }
+}
+
+@media (max-width: 880px) {
+  .blogs .slide {
+    height: 55rem;
+  }
+
+  .redes {
+    margin-top: -10%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -874,7 +892,6 @@ section {
   }
 
   .redes {
-
     margin-top: -3%;
   }
 
