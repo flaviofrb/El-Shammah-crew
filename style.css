@@ -789,16 +789,6 @@ section {
   color: #a4af0ed2;
 }
 
-@media (max-width: 2000px) {
-  .blogs .slide {
-    height: 48rem;
-  }
-
-  .redes {
-    margin-top: -13%;
-  }
-}
-
 @media (max-width: 958px) {
   html {
     font-size: 55%;
